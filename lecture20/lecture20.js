@@ -1,4 +1,4 @@
-//Render/Display html & json and Linl pages 
+//Render/Display html & json and Link pages 
 
 const express = require('express')
 const app = express();
