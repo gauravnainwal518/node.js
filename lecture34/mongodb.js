@@ -1,4 +1,3 @@
-//we create seprate file for this  because this is a common method for all operations.
 
 
 const { MongoClient } = require('mongodb');
